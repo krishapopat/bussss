@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 Sep 2021 11:14:53 at http://droitthemes.com/html/motodeal/bus.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://droitthemes.com/html/motodeal/bus.html -O1 "C:\My Web Sites\bussss" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:31:51	Error: 	"Not Found" (404) at link droitthemes.com/html/motodeal/.rate (from droitthemes.com/html/motodeal/product-details.html)
+11:31:51	Error: 	"Not Found" (404) at link droitthemes.com/html/motodeal/$ (from droitthemes.com/html/motodeal/blog.html)
+11:31:52	Error: 	"Not Found" (404) at link droitthemes.com/html/motodeal/vendors/nice-scroll/mCSB_buttons.png (from droitthemes.com/html/motodeal/vendors/nice-scroll/jquery.mCustomScrollbar.css)
+11:31:52	Error: 	"Not Found" (404) at link droitthemes.com/html/motodeal/vendors/jquery-ui/images/ui-icons_444444_256x240.png (from droitthemes.com/html/motodeal/vendors/jquery-ui/jquery-ui.css)
+11:31:52	Error: 	"Not Found" (404) at link droitthemes.com/html/motodeal/vendors/jquery-ui/images/ui-icons_555555_256x240.png (from droitthemes.com/html/motodeal/vendors/jquery-ui/jquery-ui.css)
+11:31:52	Error: 	"Not Found" (404) at link droitthemes.com/html/motodeal/vendors/jquery-ui/images/ui-icons_ffffff_256x240.png (from droitthemes.com/html/motodeal/vendors/jquery-ui/jquery-ui.css)
+11:31:52	Error: 	"Not Found" (404) at link droitthemes.com/html/motodeal/vendors/jquery-ui/images/ui-icons_777620_256x240.png (from droitthemes.com/html/motodeal/vendors/jquery-ui/jquery-ui.css)
+11:31:52	Error: 	"Not Found" (404) at link droitthemes.com/html/motodeal/vendors/jquery-ui/images/ui-icons_cc0000_256x240.png (from droitthemes.com/html/motodeal/vendors/jquery-ui/jquery-ui.css)
+11:31:52	Error: 	"Not Found" (404) at link droitthemes.com/html/motodeal/vendors/jquery-ui/images/ui-icons_777777_256x240.png (from droitthemes.com/html/motodeal/vendors/jquery-ui/jquery-ui.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 59 seconds : 547 links scanned, 537 files written (29226892 bytes overall) [24632718 bytes received at 24173 bytes/sec], 7351120 bytes transferred using HTTP compression in 114 files, ratio 27%, 3.0 requests per connection
+(9 errors, 0 warnings, 0 messages)
